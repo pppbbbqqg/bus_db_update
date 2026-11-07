@@ -1,0 +1,13 @@
+{
+  "manifestVersion": 1,
+  "appId": "gwangju",
+  "fileName": "gwangju_bus.db",
+  "regionCode": "gwangju",
+  "version": 26110603,
+  "schemaVersion": 1,
+  "minAppBuild": 42,
+  "createdAt": "2026-11-06T06:38:59.588314Z",
+  "sizeBytes": 3174400,
+  "sha256": "3be165252b00b051c4e70d6df866cfc2a0153d133b8e0006d95ed99a7757a2e8",
+  "url": "https://github.com/pppbbbqqg/bus_db_update/releases/download/gwangju-26110603/gwangju_bus.db"
+}
