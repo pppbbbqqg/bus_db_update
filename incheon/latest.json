@@ -3,11 +3,11 @@
   "appId": "incheon",
   "fileName": "incheon_bus.db",
   "regionCode": "incheon",
-  "version": 26110904,
+  "version": 26110906,
   "schemaVersion": 2,
   "minAppBuild": 45,
-  "createdAt": "2026-11-09T02:30:24.593082Z",
+  "createdAt": "2026-11-09T02:37:00.444352Z",
   "sizeBytes": 7983104,
   "sha256": "833e806ca3ece0e9931b9f8aa29f9b52120161c76ef4292bbb9b86d27e4e9239",
-  "url": "https://github.com/pppbbbqqg/bus_db_update/releases/download/incheon-26110904/incheon_bus.db"
+  "url": "https://github.com/pppbbbqqg/bus_db_update/releases/download/incheon-26110906/incheon_bus.db"
 }
