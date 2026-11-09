@@ -1,0 +1,13 @@
+{
+  "manifestVersion": 1,
+  "appId": "busan",
+  "fileName": "busan_bus.db",
+  "regionCode": "busan",
+  "version": 26110903,
+  "schemaVersion": 3,
+  "minAppBuild": 36,
+  "createdAt": "2026-11-09T11:34:50.769675Z",
+  "sizeBytes": 7569408,
+  "sha256": "05a44cf9b4167d2fe77d33813d324d00699e3138269e4091831c527b5e2c07ec",
+  "url": "https://github.com/pppbbbqqg/bus_db_update/releases/download/busan-26110903/busan_bus.db"
+}
