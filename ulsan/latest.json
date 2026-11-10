@@ -3,11 +3,11 @@
   "appId": "ulsan",
   "fileName": "ulsan_bus.db",
   "regionCode": "ulsan",
-  "version": 26111003,
+  "version": 26111004,
   "schemaVersion": 2,
   "minAppBuild": 17,
-  "createdAt": "2026-11-10T10:12:59.562203Z",
+  "createdAt": "2026-11-10T10:19:14.338960Z",
   "sizeBytes": 5414912,
   "sha256": "d7bcd9b71c1fa57c0342a78357b6558b8b90d09c3270d824ccc8cd7671642a78",
-  "url": "https://github.com/pppbbbqqg/bus_db_update/releases/download/ulsan-26111003/ulsan_bus.db"
+  "url": "https://github.com/pppbbbqqg/bus_db_update/releases/download/ulsan-26111004/ulsan_bus.db"
 }
