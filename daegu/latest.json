@@ -3,11 +3,11 @@
   "appId": "daegu",
   "fileName": "daegu_bus.db",
   "regionCode": "daegu",
-  "version": 26111303,
+  "version": 26111304,
   "schemaVersion": 2,
   "minAppBuild": 14,
-  "createdAt": "2026-11-13T01:47:53.967555Z",
+  "createdAt": "2026-11-13T01:52:47.594803Z",
   "sizeBytes": 13041664,
   "sha256": "cc4e341cedbfcf8889edb051e7e94aa547d468665f27dd391bd9414376fa9804",
-  "url": "https://github.com/pppbbbqqg/bus_db_update/releases/download/daegu-26111303/daegu_bus.db"
+  "url": "https://github.com/pppbbbqqg/bus_db_update/releases/download/daegu-26111304/daegu_bus.db"
 }
