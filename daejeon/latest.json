@@ -1,0 +1,13 @@
+{
+  "manifestVersion": 1,
+  "appId": "daejeon",
+  "fileName": "daejeon_bus.db",
+  "regionCode": "daejeon",
+  "version": 26111603,
+  "schemaVersion": 5,
+  "minAppBuild": 24,
+  "createdAt": "2026-11-16T05:39:00.482598Z",
+  "sizeBytes": 3457024,
+  "sha256": "974ad258242cbf72e681746a2ab3dc76b107d4c24aa99aae90ca931a1134af27",
+  "url": "https://github.com/pppbbbqqg/bus_db_update/releases/download/daejeon-26111603/daejeon_bus.db"
+}
