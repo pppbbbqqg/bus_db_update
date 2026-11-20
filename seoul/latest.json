@@ -1,0 +1,43 @@
+{
+  "manifestVersion": 2,
+  "appId": "seoul",
+  "regionCode": "seoul",
+  "version": 26112002,
+  "schemaVersion": 1,
+  "minAppBuild": 8,
+  "createdAt": "2026-11-20T01:32:29.183527Z",
+  "files": [
+    {
+      "fileName": "gyeonggi_bus.db",
+      "role": "secondary",
+      "regionCode": "gyeonggi",
+      "schemaVersion": 3,
+      "sizeBytes": 77656064,
+      "sha256": "8042edd6c7d68db2edb6d3d180e30fe98ddcd6cabd3ea954be45342a857f0e59",
+      "url": "https://github.com/pppbbbqqg/bus_db_update/releases/download/seoul-26112002/gyeonggi_bus.db"
+    },
+    {
+      "fileName": "seoul_bus.db",
+      "role": "primary",
+      "regionCode": "seoul",
+      "schemaVersion": 3,
+      "sizeBytes": 41787392,
+      "sha256": "bfe14b0eaecab81030d3a508bae05e8dc4c1eef23d30808e5e884d192fdf7181",
+      "url": "https://github.com/pppbbbqqg/bus_db_update/releases/download/seoul-26112002/seoul_bus.db"
+    },
+    {
+      "fileName": "metro_link.db",
+      "role": "metro",
+      "schemaVersion": 3,
+      "hostProvider": "SE",
+      "guestProvider": "GG",
+      "sizeBytes": 19456000,
+      "sha256": "23998bf1fb0f774098d0bd972ed9ccae28ae3f7dc36954dc09643aed99482322",
+      "sourceSha256": {
+        "gyeonggi_bus.db": "8042edd6c7d68db2edb6d3d180e30fe98ddcd6cabd3ea954be45342a857f0e59",
+        "seoul_bus.db": "bfe14b0eaecab81030d3a508bae05e8dc4c1eef23d30808e5e884d192fdf7181"
+      },
+      "url": "https://github.com/pppbbbqqg/bus_db_update/releases/download/seoul-26112002/metro_link.db"
+    }
+  ]
+}
